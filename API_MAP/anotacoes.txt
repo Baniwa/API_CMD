@@ -65,15 +65,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 #INICIO -- COMO CRIAR UMA API 
 
 criar um projeto :: yarn init -y  
